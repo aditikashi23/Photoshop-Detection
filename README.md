@@ -4,6 +4,8 @@ Deepfakes are everywhere now, and like us you're probably wondering ["wow how am
 
 **Skills Learned**: Machine Learning, Deep Learning, Computer Vision, PyTorch, TensorFlow
 
+This was a team project with two other members. I was in charge of the CNN layer development, while one of the other members worked on data augmentation and the other worked on hyperparameter tuning.
+
 ## Timeline (Tentative)
 
 | Date | Topic | Deliverable / Task |
